@@ -1,0 +1,12 @@
+.container {
+  background-color: #4d474a;
+}
+.title {
+  color: #ffaaaa;
+}
+p {
+  color: white;
+  line-height: 2;
+  font-size: large;
+  font-weight: 500;
+}
