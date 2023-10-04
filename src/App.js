@@ -1,4 +1,3 @@
-import Accordion from "react-bootstrap/Accordion";
 function App() {
   return (
     <div className="App">
