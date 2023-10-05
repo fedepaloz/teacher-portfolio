@@ -10,7 +10,7 @@ function App() {
       <Container fluid className="container">
         <Row>
           <Col>
-            <h1 className="title text-left px-2 my-3">Ciao a tutti,</h1>
+            <h1 className="title text-left px-2 my-3">Ciao!</h1>
             <p className="text-left px-2">
               Mi chiamo Federico, ho 33 anni e offro lezioni di ripetizione per
               ragazz* delle elementari e medie. Sebbene la mia professione
