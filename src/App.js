@@ -48,7 +48,7 @@ function App() {
 
 function WhatsAppShareButton() {
   const shareOnWhatsApp = () => {
-    const websiteURL = "federicopalozzi.netlify.app";
+    const websiteURL = "https://federicopalozzi.netlify.app/";
     const encodedURL = encodeURIComponent(websiteURL);
     const message = encodedURL;
     const whatsappURL = "https://wa.me/?text=" + message;
