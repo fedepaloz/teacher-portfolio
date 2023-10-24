@@ -12,31 +12,31 @@ function App() {
           <Col>
             <h1 className="title text-left px-2 my-3">Ciao!</h1>
             <p className="text-left px-2">
-              test deploy Mi chiamo Federico, ho 33 anni e offro lezioni di
-              ripetizione per ragazz* delle elementari e medie. Sebbene la mia
-              professione principale sia quella di programmatore, ho un
-              background accademico totalmente diverso, infatti sono laureato in
-              Lingue Orientali e ho un master in Antropologia Culturale. Ho già
-              avuto il piacere di aiutare altri studenti nel loro percorso di
-              studi. Se siete curiosi di conoscermi meglio o di discutere di
-              come potrei aiutare vostr* figli*, non esitate a contattarmi sul
-              mio
-              <a className="mx-1" href="https://wa.me/+393349658798">
-                Whatsapp.
-              </a>
-              Inoltre, potete consultare il mio
+              Mi sono formato in antropologia culturale, un campo che esplora la
+              complessità e la diversità delle culture umane. Durante i miei
+              studi, la mia passione per la tecnologia mi ha guidato verso
+              percorsi inaspettati, conducendomi all'affascinante mondo dello
+              sviluppo web. Credo fermamente che avere una formazione umanistica
+              in un campo così tecnico come la programmazione arricchisca la
+              prospettiva di uno sviluppatore. Un background antropologico
+              infatti mi ha permesso di approcciarmi ai progetti web con una
+              visione olistica, considerando non solo la funzionalità, ma anche
+              come gli utenti interagiranno con ciò che creo e come questo
+              impatterà le loro culture e società. Trovo pace e ispirazione
+              attraverso attività come il trekking e il cicloturismo, che mi
+              permettono di connettermi con il mondo intorno a me in un modo
+              autentico e significativo. Puoi consultare il mio
               <a
                 className="mx-1"
                 href="https://www.linkedin.com/in/federico-palozzi-77a93494/"
               >
                 profilo Linkedin
               </a>{" "}
-              per avere qualche informazione in più. Spero di avere presto
-              l'opportunità di sentirci e di conoscervi.
+              per avere più informazioni e consultare il mio CV.
             </p>
             <p className="text-left px-2 footer">
               P.S ti chiedo cortesemente di condividere questa pagina con chi
-              potrebbe essere interessato cliccando sulla faccina
+              potrebbe essere interessato cliccando qui
               <WhatsAppShareButton />
               grazie!
             </p>
