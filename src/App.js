@@ -12,14 +12,15 @@ function App() {
           <Col>
             <h1 className="title text-left px-2 my-3">Ciao!</h1>
             <p className="text-left px-2">
-              Mi chiamo Federico, ho 33 anni e offro lezioni di ripetizione per
-              ragazz* delle elementari e medie. Sebbene la mia professione
-              principale sia quella di programmatore, ho un background
-              accademico totalmente diverso, infatti sono laureato in Lingue
-              Orientali e ho un master in Antropologia Culturale. Ho già avuto
-              il piacere di aiutare altri studenti nel loro percorso di studi.
-              Se siete curiosi di conoscermi meglio o di discutere di come
-              potrei aiutare vostr* figli*, non esitate a contattarmi sul mio
+              test deploy Mi chiamo Federico, ho 33 anni e offro lezioni di
+              ripetizione per ragazz* delle elementari e medie. Sebbene la mia
+              professione principale sia quella di programmatore, ho un
+              background accademico totalmente diverso, infatti sono laureato in
+              Lingue Orientali e ho un master in Antropologia Culturale. Ho già
+              avuto il piacere di aiutare altri studenti nel loro percorso di
+              studi. Se siete curiosi di conoscermi meglio o di discutere di
+              come potrei aiutare vostr* figli*, non esitate a contattarmi sul
+              mio
               <a className="mx-1" href="https://wa.me/+393349658798">
                 Whatsapp.
               </a>
